@@ -6,5 +6,6 @@
     "HEAD": "html"
   },
   "name": "abcs-for-babies",
-  "type": "comics"
+  "type": "comics",
+  "book_id": 433
 }
